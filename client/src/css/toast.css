@@ -1,0 +1,14 @@
+.toast-add-item {
+    background: rgb(59, 82, 110);
+    color: white;
+    font-size: 25px;
+    font-weight: 900;
+    width: 34vw;
+    padding: 30px 20px;
+    border-radius: 20px;
+}
+
+.toast-container-add-item {
+    margin-right: 200px;
+    text-align: center;
+}

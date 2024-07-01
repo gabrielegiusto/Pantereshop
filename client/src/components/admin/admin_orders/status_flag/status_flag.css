@@ -1,0 +1,23 @@
+.general-div-status {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.div-status-flag {
+    opacity: 0.4;
+    border-radius: 0.6rem;
+    margin: 1rem;
+}
+.div-status-flag:hover {
+    opacity: 1;
+}
+
+.arrow-icon {
+    height: 15px;
+}
+
+.PROCESSING {
+    opacity: 1;
+}
